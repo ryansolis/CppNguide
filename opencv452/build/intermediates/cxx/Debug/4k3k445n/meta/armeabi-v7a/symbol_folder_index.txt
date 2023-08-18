@@ -1,0 +1,1 @@
+C:\Users\admin\Downloads\opencv-4.5.2-android-sdk\OpenCV-android-sdk\sdk\build\intermediates\cxx\Debug\4k3k445n\obj\armeabi-v7a

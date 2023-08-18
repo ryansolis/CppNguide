@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: x86_64",
+    "file_": "C:\\Users\\admin\\AndroidStudioProjects\\CppNguide\\opencv452\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1319683986
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\admin\\AndroidStudioProjects\\CppNguide\\opencv452\\.cxx\\Debug\\2n3s3vr6\\x86_64\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\admin\\AndroidStudioProjects\\CppNguide\\opencv452\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1488457041
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json C:\\Users\\admin\\AndroidStudioProjects\\CppNguide\\opencv452\\.cxx\\Debug\\2n3s3vr6\\x86_64\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "C:\\Users\\admin\\AndroidStudioProjects\\CppNguide\\opencv452\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 157759035
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file C:\\Users\\admin\\AndroidStudioProjects\\CppNguide\\opencv452\\.cxx\\Debug\\2n3s3vr6\\x86_64\\metadata_generation_command.txt, will remove stale json folder",
+    "file_": "C:\\Users\\admin\\AndroidStudioProjects\\CppNguide\\opencv452\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -260292327
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "C:\\Users\\admin\\AndroidStudioProjects\\CppNguide\\opencv452\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 119174045
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027C:\\Users\\admin\\AndroidStudioProjects\\CppNguide\\opencv452\\.cxx\\Debug\\2n3s3vr6\\x86_64\u0027",
+    "file_": "C:\\Users\\admin\\AndroidStudioProjects\\CppNguide\\opencv452\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -853693
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027C:\\Users\\admin\\AndroidStudioProjects\\CppNguide\\opencv452\\.cxx\\Debug\\2n3s3vr6\\x86_64\u0027",
+    "file_": "C:\\Users\\admin\\AndroidStudioProjects\\CppNguide\\opencv452\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1485622705
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : C:\\Users\\admin\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HC:\\Users\\admin\\AndroidStudioProjects\\CppNguide\\opencv452\\libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003dx86_64\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86_64\n-DANDROID_NDK\u003dC:\\Users\\admin\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\admin\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\admin\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\admin\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\Users\\admin\\AndroidStudioProjects\\CppNguide\\opencv452\\build\\intermediates\\cxx\\Debug\\2n3s3vr6\\obj\\x86_64\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\Users\\admin\\AndroidStudioProjects\\CppNguide\\opencv452\\build\\intermediates\\cxx\\Debug\\2n3s3vr6\\obj\\x86_64\n-DCMAKE_BUILD_TYPE\u003dDebug\n-BC:\\Users\\admin\\AndroidStudioProjects\\CppNguide\\opencv452\\.cxx\\Debug\\2n3s3vr6\\x86_64\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "C:\\Users\\admin\\AndroidStudioProjects\\CppNguide\\opencv452\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -416494998
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : C:\\Users\\admin\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HC:\\Users\\admin\\AndroidStudioProjects\\CppNguide\\opencv452\\libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003dx86_64\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86_64\n-DANDROID_NDK\u003dC:\\Users\\admin\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\admin\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\admin\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\admin\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\Users\\admin\\AndroidStudioProjects\\CppNguide\\opencv452\\build\\intermediates\\cxx\\Debug\\2n3s3vr6\\obj\\x86_64\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\Users\\admin\\AndroidStudioProjects\\CppNguide\\opencv452\\build\\intermediates\\cxx\\Debug\\2n3s3vr6\\obj\\x86_64\n-DCMAKE_BUILD_TYPE\u003dDebug\n-BC:\\Users\\admin\\AndroidStudioProjects\\CppNguide\\opencv452\\.cxx\\Debug\\2n3s3vr6\\x86_64\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "C:\\Users\\admin\\AndroidStudioProjects\\CppNguide\\opencv452\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1310402805
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of C:\\Users\\admin\\AndroidStudioProjects\\CppNguide\\opencv452\\.cxx\\Debug\\2n3s3vr6\\x86_64\\compile_commands.json.bin normally",
+    "file_": "C:\\Users\\admin\\AndroidStudioProjects\\CppNguide\\opencv452\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2125817893
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "C:\\Users\\admin\\AndroidStudioProjects\\CppNguide\\opencv452\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -193172206
+  },
+  {
+    "level_": 0,
+    "message_": "write command file C:\\Users\\admin\\AndroidStudioProjects\\CppNguide\\opencv452\\.cxx\\Debug\\2n3s3vr6\\x86_64\\metadata_generation_command.txt",
+    "file_": "C:\\Users\\admin\\AndroidStudioProjects\\CppNguide\\opencv452\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -404835869
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\admin\\AndroidStudioProjects\\CppNguide\\opencv452\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1744900878
+  }
+]
